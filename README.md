@@ -16,11 +16,9 @@ Yuting.github.io
     <p>C.臀推正式組 10x3 組間休息160-180s </p>
     <p>D.臀外展器械 12x3 組間休息60s</p>
     <p>E.腿後勾器械 12x3</p>
-</body>
-</html>
-</head>
-  <body>
     <hr>
+</head>
+<body>
     <p>Day2 臀2🍑</p>
     <p>A.熱身臀外展器械 組間休息60s 40x3</p>
     <p>B.臀推熱身 15x2 組間休息60s</p>
